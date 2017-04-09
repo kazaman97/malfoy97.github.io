@@ -12,8 +12,8 @@ September 20, 1997
 
 ### Introduction
 
-I am a free human.
-Recently I am studying Swift.
+I am a free human.  
+Recently I am studying Swift.  
 If you are interested please browse my github.
 
 ### Contact
