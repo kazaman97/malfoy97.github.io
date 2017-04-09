@@ -2,34 +2,19 @@
 
 Welcome to my Homepage!!
 
-### Markdown
+### Place of birth
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nagano, Japan
 
-```markdown
-Syntax highlighted code block
+### Date of birth
 
-# Header 1
-## Header 2
-### Header 3
+September 20, 1997
 
-- Bulleted
-- List
+### Introduction
 
-1. Numbered
-2. List
+I am a free human.
+Recently I am studying Swift.
+If you are interested please browse my github.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/malfoy97/malfoy97.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+@kazamarurin (Twitter)
