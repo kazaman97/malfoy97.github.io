@@ -17,4 +17,4 @@ Recently I am studying Swift.
 If you are interested please browse my github.
 
 ### Contact
-@kazamarurin (Twitter)
+workkzmax@gmail.com
