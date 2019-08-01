@@ -1,4 +1,4 @@
-## LightningKazaman
+## Kazaman
 
 Welcome to my Homepage!!
 
@@ -13,7 +13,7 @@ September 20, 1997
 ### Introduction
 
 I am a free human.  
-Recently I am studying Swift.  
+Recently I am studying Kotlin.  
 If you are interested please browse my github.
 
 ### Contact
